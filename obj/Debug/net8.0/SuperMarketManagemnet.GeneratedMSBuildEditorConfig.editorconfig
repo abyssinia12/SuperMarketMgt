@@ -20,6 +20,30 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/personal/SuperMarketManagemnet/SuperMarketManagemnet/SuperMarketManagemnet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3VwZXJNYXJrZXRNYW5hZ2VtbmV0XFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/personal/SuperMarketManagemnet/SuperMarketManagemnet/SuperMarketManagemnet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3VwZXJNYXJrZXRNYW5hZ2VtbmV0XFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/personal/SuperMarketManagemnet/SuperMarketManagemnet/SuperMarketManagemnet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3VwZXJNYXJrZXRNYW5hZ2VtbmV0XFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/personal/SuperMarketManagemnet/SuperMarketManagemnet/SuperMarketManagemnet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3VwZXJNYXJrZXRNYW5hZ2VtbmV0XFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/personal/SuperMarketManagemnet/SuperMarketManagemnet/SuperMarketManagemnet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3VwZXJNYXJrZXRNYW5hZ2VtbmV0XFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/personal/SuperMarketManagemnet/SuperMarketManagemnet/SuperMarketManagemnet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3VwZXJNYXJrZXRNYW5hZ2VtbmV0XFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/personal/SuperMarketManagemnet/SuperMarketManagemnet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -43,6 +67,10 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/personal/SuperMarketManagemnet/SuperMarketManagemnet/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/personal/SuperMarketManagemnet/SuperMarketManagemnet/SuperMarketManagemnet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3VwZXJNYXJrZXRNYW5hZ2VtbmV0XFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-7c6fjesla8
 
 [D:/personal/SuperMarketManagemnet/SuperMarketManagemnet/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
